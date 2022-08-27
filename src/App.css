@@ -1,0 +1,204 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+th {
+  background-color: #8a0404;
+  color: white;
+}
+
+
+/* .app {
+  font-family: 'Brush Script MT', cursive;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  height: 100vh;
+  font-family: Cambria, "Cochin", Georgia, Times, "Times New Roman", serif;
+  background-color: red;
+  background-image: url('images.png') 
+}
+input[type="text"],
+input[type="password"] {
+  height: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+input[type="submit"] {
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  background: black;
+  border: 1px solid red;
+  color: red;
+  padding: 10px 20px;
+}
+input[type="submit"]:hover {
+  background: #0c9e07;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+.login-form {
+  background-color: red;
+  padding: 2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.list-container {
+  display: flex;
+}
+.error {
+  color: black;
+  font-size: 12px;
+}
+.title {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 10px;
+}
+.HomePage{
+  background-image: url("https://www.dreamstime.com/photos-images/dbs-bank.html")
+} */
+
+.app {
+  font-family: 'Brush Script MT', cursive;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  height: 100vh;
+  font-family: Cambria, "Cochin", Georgia, Times, "Times New Roman", serif;
+  background-color: red;
+  background-image: url('images.png')
+}
+input[type="text"],
+input[type="password"] {
+  height: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+input[type="submit"] {
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  background: black;
+  border: 1px solid red;
+  color: red;
+  padding: 10px 20px;
+}
+input[type="submit"]:hover {
+  background: #0c9e07;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+.login-form {
+  background-color: red;
+  padding: 2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.list-container {
+  display: flex;
+}
+.error {
+  color: black;
+  font-size: 12px;
+}
+.title {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 10px;
+}
+/*body
+{
+background-image: url('https://images.indianexpress.com/2021/03/dbs-bank-1200.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: cover;
+}
+h1{
+  color:black;
+  /*text-align: center;
+  margin-left: 400px;
+}
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+background-color:green;
+}
+li
+{
+float:left;
+}
+li a
+{
+display:block;
+color:white;
+text-align:center;
+padding:14px 16px;
+text-decoration:none;
+}
+li a:hover:not(.active)
+{
+background-color:#04AA6D;
+}
+
+
+
+.form-center form {
+  position: absolute;
+top: 40%;
+left: 50%;
+
+
+
+transform: translate(-50%,-50%);
+}
+label {
+  color:black;
+  flex-direction: row;
+  justify-content: flex-end;
+  text-align:center;
+  width: 400px;
+  line-height: 26px;
+  margin-bottom: 10px;
+  margin-left: 400px;
+  font-family:  Arial, Helvetica, sans-serif;
+}
+input {
+  height: 20px;
+  flex: 0 0 200px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+input:hover, select:hover {
+  border-color: transparent;
+  box-shadow: 0 0 0 5px rgb(68, 129, 165);
+}
+select{
+  height: 20px;
+  flex: 0 0 200px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}*/
